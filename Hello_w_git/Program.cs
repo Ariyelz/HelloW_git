@@ -14,5 +14,6 @@ class Program
     //Also hoping this is how you should do things, but i should have read the directions
     // not sure if it worked
     // i do really want my dkp tho
+    //and this is where i realized i done goofed by not writing my name
 }
 
